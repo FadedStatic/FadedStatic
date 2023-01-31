@@ -1,4 +1,4 @@
-I'm NOT a python developer, thats just my github stats thingy
+C++ enjoyer, chronic reverse engineer
 
 ![](https://github.com/FadedStatic/FadedStatic/blob/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://github.com/FadedStatic/FadedStatic/blob/master/generated/overview.svg#gh-dark-mode-only)
