@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #555555;width: 61.269%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 37.200%;" class="progress-item"></span><span style="background-color: #DA3434;width: 0.532%;" class="progress-item"></span><span style="background-color: #178600;width: 0.520%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.326%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 0.131%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.022%;" class="progress-item"></span>
+<span style="background-color: #555555;width: 61.263%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 37.196%;" class="progress-item"></span><span style="background-color: #DA3434;width: 0.532%;" class="progress-item"></span><span style="background-color: #178600;width: 0.520%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.326%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 0.131%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.022%;" class="progress-item"></span><span style="background-color: #dea584;width: 0.010%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">C</span>
-<span class="percent">61.27%</span>
+<span class="percent">61.26%</span>
 </li>
 
 
@@ -199,6 +199,15 @@ viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">HTML</span>
 <span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 1050ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#dea584;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Rust</span>
+<span class="percent">0.01%</span>
 </li>
 
 
