@@ -1,4 +1,4 @@
-C++ enjoyer, chronic reverse engineer
+I love C++ and Reverse Engineering. 
 
 ![](https://github.com/FadedStatic/FadedStatic/blob/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://github.com/FadedStatic/FadedStatic/blob/master/generated/overview.svg#gh-dark-mode-only)
