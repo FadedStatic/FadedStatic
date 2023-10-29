@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Verbum.<br></h1>
-<h3 align="center">I'm passionate in Software Engineering, and Fullstack Web Development.</h2>
+<h3 align="center">I'm passionate in Software Engineering and Fullstack Web Development.</h2>
 <h4 align="center">I also do Systems Programming, Reverse Engineering, and Low-level Exploit Development.</h4>
 <br>
 <h2 align="center">My Languages & Frameworks<br></h2>
