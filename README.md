@@ -6,7 +6,7 @@
 <div align="center">
   <img title="C++" src="https://github.com/FadedStatic/FadedStatic/blob/master/images/C%2B%2B.png" width="28px" height="32px"/>
   <img title="Rust" src="https://github.com/FadedStatic/FadedStatic/blob/master/images/rust.png" width="32px" height="32px"/>
-  <img title="IDA Pro" src="https://github.com/FadedStatic/FadedStatic/blob/master/images/idapro.png" width="32px" height="32px"/>
+  <!-- <img title="IDA Pro" src="https://github.com/FadedStatic/FadedStatic/blob/master/images/idaicon.png" width="32px" height="32px"/> --> 
   
   <img title="Kotlin" src="https://github.com/FadedStatic/FadedStatic/blob/master/images/kotlin.png" width="32px" height="32px"/>
   <img title="C#" src="https://github.com/FadedStatic/FadedStatic/blob/master/images/csharp.png" width="28px" height="32px"/>
