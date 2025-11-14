@@ -1,11 +1,12 @@
 <h1 align="center">Hello, I'm Verbum.<br></h1>
-<h3 align="center">I'm passionate in Software Engineering and Fullstack Web Development.</h2>
-<h4 align="center">I also do Systems Programming and Reverse Engineering.</h4>
+<h3 align="center">I'm a Reverse Engineer & Vulnerability Researcher.</h2>
+<h4 align="center">I also do Embedded Systems and a bit of Game Hacking.</h4>
 <br>
-<h2 align="center">My Languages & Frameworks<br></h2>
+<h2 align="center">Some tools & frameworks I use<br></h2>
 <div align="center">
   <img title="C++" src="https://github.com/FadedStatic/FadedStatic/blob/master/images/C%2B%2B.png" width="28px" height="32px"/>
   <img title="Rust" src="https://github.com/FadedStatic/FadedStatic/blob/master/images/rust.png" width="32px" height="32px"/>
+  
   <img title="Kotlin" src="https://github.com/FadedStatic/FadedStatic/blob/master/images/kotlin.png" width="32px" height="32px"/>
   <img title="C#" src="https://github.com/FadedStatic/FadedStatic/blob/master/images/csharp.png" width="28px" height="32px"/>
   <img title="Python" src="https://github.com/FadedStatic/FadedStatic/blob/master/images/py.png" width="32px" height="32px"/>
